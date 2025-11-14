@@ -1,0 +1,8 @@
+# .gitignore file
+
+# ignored files
+Manifest.toml
+
+# ignored folders
+.vscode/**
+drafts/**

@@ -1,0 +1,14 @@
+name = "BabelArrays"
+uuid = "a3f72d31-3ce7-404c-8600-5bd27c72ec05"
+authors = ["ChenyuBao <chenyu.bao@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StaticArraysCore = "1e83bf80-4336-4d27-bf5d-d5a4f845583c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+StaticArrays = "1.9.15"
+StaticArraysCore = "1.4.4"
+Test = "1.11.0"
